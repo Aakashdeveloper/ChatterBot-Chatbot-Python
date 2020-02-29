@@ -1,13 +1,14 @@
 pip install git+https://github.com/gunthercox/chatterbot-corpus.git#egg=chatterbot-corpus
 
 
-225*70 
-90*320 
-90*12*32=34560
-(15)
-90*15
+tell me status of flight ticket 
 
-
+Intent => status
+Entity =>  flight ticket
+Synoyms => air ticket , ticket airplan tickt 
+utt => tell me status of flight ticket ,
+       What is my air ticket status
+       Update on air ticket
 
 
 
